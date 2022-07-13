@@ -1,5 +1,5 @@
-# Erufen, **エルフェン** 엘프
-> Elfo - [alfr]
+# Nimpeu, **님프*
+> ninfa - [nf]
 
 **Here are some ideas to get you started:**
 
