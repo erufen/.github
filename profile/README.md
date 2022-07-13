@@ -1,4 +1,4 @@
-# Erufen, **エルフェン**
+# Erufen, **エルフェン** 엘프
 > Elfo - [alfr]
 
 **Here are some ideas to get you started:**
