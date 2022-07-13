@@ -1,7 +1,5 @@
-## Hi there 👋
-# Erufen
-# エルフェン
-> Elfo [alfr]
+# Erufen, エルフェン
+> Elfo - [alfr]
 
 **Here are some ideas to get you started:**
 
