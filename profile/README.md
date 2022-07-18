@@ -1,5 +1,2 @@
-**コードで作られたニンフ。 プログラミングはよりソフトで優雅になります**
-> # Code Nymphs 
-> Nymphs Made of Code.
-> "Programming can be more soft and gracefull"
-> make computing love the people, earth and all animal
+# Code Nymphs 
+> Nymphs made of code. "Programming can be smoother and more graceful." Create programs that help people. Making computing save the earth, take care of animals and plants.
