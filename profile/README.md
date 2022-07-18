@@ -1,5 +1,7 @@
 # Code Nymphs 
+
 **Nymphs made of code. **
+
 _"Programming can be soft and more graceful." _
 
 > 1. Create programs that help people. 
