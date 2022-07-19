@@ -4,5 +4,5 @@
  - [ ] Creating programs able to care for animals and plants.
  - [ ] Making code able to care the earth.
  
- @juniobash
+ developer by: `@juniobash`
 
