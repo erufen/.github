@@ -1,8 +1,4 @@
-# Code Nymphs 
-
-**Nymphs made of code.**
-
-_"Programming can be soft and graceful."_
+# _**Nymphs Made of Code**: Programming can be soft and graceful._
 
  - [ ] Building programs that help people.
  - [ ] Creating programs able to care for animals and plants.
