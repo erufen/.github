@@ -6,3 +6,8 @@
  
  developer by: `@juniobash`
 
+<!---
+     - [ ] Criar IA para gestão de conhecimento em dados [markdown ou sql]
+     `daemon, angel, nymphs`
+     ~hospeada em servidor raspberry pi
+--->
