@@ -11,3 +11,10 @@
      `daemon, angel, nymphs`
      ~hospeada em servidor raspberry pi
 --->
+
+<!---
+    eram criaturas mitologicas com vida ligada, a riachos, lagos, bosques e montanhas - 
+    - destaca-se as 9 musas
+      ou 9 filhas de minemosine
+      * criaturas protetoras e guardiãs
+--->
