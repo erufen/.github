@@ -17,21 +17,19 @@
     - destaca-se as 9 musas
       ou 9 filhas de minemosine
       * criaturas protetoras e guardiãs
+   ### GUI APPS
+   > Graphical User Interface 
+
+   ### CLI APPS
+   > Command Lines Interface
+
+   ### IUH - interface of use hardware
+   > interface de uso do hardware
+   > #### Mutual and Reactive Interaction Architecture.   
+   > Interface for Mutual and Reactive Interaction.  
+   > Interface para aperfeiçoar a interação (inputs e outups) do (homem && maquina) e (ambiente && maquina).   
+   > **computer interaction with environment**. 
+   >  - [X] Interaction with human (and Animal)
+   >  - [X] Interaction with the Environment (plants, ground, water, and the earth)
+   >  - [X] Interaction with Another Computer
 --->
-
-### GUI APPS
-> Graphical User Interface 
-
-### CLI APPS
-> Command Lines Interface
-
-### IUH - interface of use hardware
-> interface de uso do hardware
-> #### Mutual and Reactive Interaction Architecture.   
-> Interface for Mutual and Reactive Interaction.  
-> Interface para aperfeiçoar a interação (inputs e outups) do (homem && maquina) e (ambiente && maquina).   
-> **computer interaction with environment**. 
->  - [X] Interaction with human (and Animal)
->  - [X] Interaction with the Environment (plants, ground, water, and the earth)
->  - [X] Interaction with Another Computer
-  
