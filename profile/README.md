@@ -18,3 +18,19 @@
       ou 9 filhas de minemosine
       * criaturas protetoras e guardiãs
 --->
+
+### GUI APPS
+> Graphical User Interface 
+
+### CLI APPS
+> Command Lines Interface
+
+### GIMRI APPS
+> General Interface for Mutual and Reactive Interaction
+> Interface para melhorar a robotica e a realiade externa ao chip. 
+> Mutual and Reactive Interaction Architecture
+> **computer interaction with environment**
+>  - [X] Human Interaction (and Animal)
+>  - [X] Interaction with the Environment (plants, ground, water, and the earth)
+>  - [X] Interaction with Another Computer
+  
