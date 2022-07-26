@@ -26,13 +26,10 @@
 > Command Lines Interface
 
 ### IMRI APPS
-> Interface for Mutual and Reactive Interaction 
-> 
-> Interface para aperfeiçoar a interação da computação/robotica com a realiade externa ao chip.  
-> 
-> **Mutual and Reactive Interaction Architecture. 
-> 
-> computer interaction with environment**
+> Interface for Mutual and Reactive Interaction.  
+> Interface para aperfeiçoar a interação da computação/robotica com a realiade externa ao chip.   
+> **Mutual and Reactive Interaction Architecture.   
+> computer interaction with environment**. 
 >  - [X] Human Interaction (and Animal)
 >  - [X] Interaction with the Environment (plants, ground, water, and the earth)
 >  - [X] Interaction with Another Computer
