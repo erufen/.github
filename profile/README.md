@@ -26,7 +26,7 @@
 > Command Lines Interface
 
 ### IUH - interface of use hardware
-> interface of use hardware
+> interface de uso do hardware
 > #### Mutual and Reactive Interaction Architecture.   
 > Interface for Mutual and Reactive Interaction.  
 > Interface para aperfeiçoar a interação (inputs e outups) do (homem && maquina) e (ambiente && maquina).   
