@@ -27,7 +27,7 @@
 
 ### IMRI APPS
 > Interface for Mutual and Reactive Interaction.  
-> Interface para aperfeiçoar a interação da computação/robotica com a realiade externa ao chip.   
+> Interface para aperfeiçoar a (inputs e outups). (homem && maquina) + (ambiente && maquina).   
 > **Mutual and Reactive Interaction Architecture.   
 > computer interaction with environment**. 
 >  - [X] Human Interaction (and Animal)
