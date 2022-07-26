@@ -25,11 +25,12 @@
 ### CLI APPS
 > Command Lines Interface
 
-### IMRI APPS
+### IUH - interface of use hardware
+> interface of use hardware
+#### > Mutual and Reactive Interaction Architecture.   
 > Interface for Mutual and Reactive Interaction.  
 > Interface para aperfeiçoar a interação (inputs e outups) do (homem && maquina) e (ambiente && maquina).   
-> **Mutual and Reactive Interaction Architecture.   
-> computer interaction with environment**. 
+> **computer interaction with environment**. 
 >  - [X] Interaction with human (and Animal)
 >  - [X] Interaction with the Environment (plants, ground, water, and the earth)
 >  - [X] Interaction with Another Computer
