@@ -5,7 +5,7 @@
  - [ ] Creating programs able to care for animals and plants.
  - [ ] Making code able to care the earth.
  
- developer by: `@juniobash`
+ @juniobash
 
 <!---
      - [ ] Criar IA para gestão de conhecimento em dados [markdown ou sql]
