@@ -15,7 +15,7 @@ Algoritmo "Nymphs Made Of Code"
 
 FimAlgoritmo
 ~~~
-# programar pode ser suave e graciosa.
+# Programação pode ser suave e graciosa.
    - [ ] Construir programas para ajudar as pessoas.
    - [ ] Criar programas capazes de cuidar de animais e plantas.
    - [ ] Tornar o código capaz de cuidar do nosso ambiente
