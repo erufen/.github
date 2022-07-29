@@ -14,8 +14,6 @@ Algoritmo "Nymphs Made Of Code"
 FimAlgoritmo
 ~~~
  
- @juniobash
-
 <!---
      - [ ] Criar IA para gestão de conhecimento em dados [markdown ou sql]
      `daemon, angel, nymphs`
