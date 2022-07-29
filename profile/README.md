@@ -1,8 +1,12 @@
 # Programming Can Be Soft and Graceful.
-
+   - [ ] Construir programas para ajudar as pessoas.
+   - [ ] Criar programas capazes de cuidar de animais e plantas.
+   - [ ] Tornar o código capaz de cuidar do nosso planeta.
+<!---
  - [ ] Building programs that help people.
  - [ ] Creating programs able to care for animals and plants.
  - [ ] Making code able to care the earth.
+--->
 
 `juniobash@github ~ % ./nymphs.alg`   
 ~~~ alg
