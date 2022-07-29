@@ -1,5 +1,5 @@
-# _**Code Nymphs**_
-## Programming Can Be Soft and Graceful.
+# Programming Can Be Soft and Graceful.
+
  - [ ] Building programs that help people.
  - [ ] Creating programs able to care for animals and plants.
  - [ ] Making code able to care the earth.
