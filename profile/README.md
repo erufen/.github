@@ -1,10 +1,8 @@
 # CodeNymphs
-<!---
-# Programming Can Be Soft and Graceful.
+> ###Programming Can Be Soft and Graceful.
     - [ ] Build programs to help people.
     - [ ] Create programs capable of caring for animals and plants.
-    - [ ] Make the code able to take care of our environment
---->
+    - [ ] Make the code able to take care of our environment.
 
 `juniobash@github ~ % cat nymphs.alg`   
 ~~~ alg
@@ -15,12 +13,14 @@ Algoritmo "Nymphs Made Of Code"
 
 FimAlgoritmo
 ~~~
+
+<!---
+
 # Programação pode ser suave e graciosa.
    - [ ] Construir programas para ajudar as pessoas.
    - [ ] Criar programas capazes de cuidar de animais e plantas.
    - [ ] Tornar o código capaz de cuidar do nosso ambiente
 
-<!---
      - [ ] Criar IA para gestão de conhecimento em dados [markdown ou sql]
      `daemon, angel, nymphs`
      ~hospeada em servidor raspberry pi
