@@ -5,13 +5,14 @@
 - [ ] Make the code able to take care of our environment.   
 
 `juniobash@github ~ % cat nymphs.alg`   
-~~~ alg
-Algoritmo "creating code nymphs"
+~~~ algorithm
+Algorithm "creating code nymphs"
     
-    Inicio
-        Escreval("Hello, World!")
+     Begin
+         Write("Hello, World!")
 
-FimAlgoritmo
+EndAlgorithm
+
 ~~~
 
 <!---
