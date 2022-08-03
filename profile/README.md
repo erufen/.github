@@ -1,4 +1,4 @@
-# CodeNymphs
+# codeNymphs
 > Programming Can Be Soft and Graceful.  
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
