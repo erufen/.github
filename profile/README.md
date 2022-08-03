@@ -6,7 +6,7 @@
 
 `juniobash@github ~ % cat nymphs.alg`   
 ~~~ alg
-Algoritmo "Nymphs Made Of Code"
+Algoritmo "creating code nymphs"
     
     Inicio
         Escreval("Hello, World!")
