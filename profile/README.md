@@ -6,7 +6,7 @@
     - [ ] Make the code able to take care of our environment
 --->
 
-`juniobash@github ~ % ./nymphs.alg`   
+`juniobash@github ~ % cat nymphs.alg`   
 ~~~ alg
 Algoritmo "Nymphs Made Of Code"
     
