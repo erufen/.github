@@ -6,10 +6,9 @@ Programming Can Be Soft and Graceful.
 
 `juniobash@github ~ % cat nymphs.alg`   
 ~~~ algorithm
-Algorithm "creating code nymphs"
+BeginAlgorithm "creating code nymphs"
     
-     Begin
-         Write("Hello, World!")
+    Write("Hello, World!")
 
 EndAlgorithm
 
