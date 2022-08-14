@@ -1,4 +1,4 @@
-# > you can programming softly and beautiful
+# `$: you can programming softly and beautiful`
   > `@codenymphs`
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
