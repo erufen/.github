@@ -11,7 +11,16 @@ Begin
 End.	
 ~~~
 
+~~~ada
+With text_io; 
+Use  text_io;
 
+Procedure birth_of_the_nymph Is
+Begin
+	put_line("The nymph said: hello world!");
+	
+End birth_of_the_nymph;
+~~~
 <!---
 
 # Programação pode ser suave e graciosa.
