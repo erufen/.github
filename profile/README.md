@@ -3,7 +3,7 @@
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
 
-### Pascal Nymphs
+### Pascal Nymph
 `~$ cat nymphs.pas`   
 ~~~ pascal
 program birth_of_the_nymph;
@@ -15,7 +15,7 @@ End.
 `~$ ./nymph`   
 `~$ The nymph said: hello world!`   
 
-### Ada Nymphs
+### Ada Nymph
 `~$ cat nymph.adb`
 ~~~ada
 With text_io; Use  text_io;
