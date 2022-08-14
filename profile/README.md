@@ -3,24 +3,32 @@
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
 
-`codenymphs ~$ cat nymphs.pas`   
+`~$ cat nymphs.pas`   
 ~~~ pascal
 program birth_of_the_nymph;
 Begin
     Writeln('The nymph said: hello world!');
 End.	
 ~~~
-
+`~$ fpc nymph.pas`
+`~$ ./nymph`
+`~$ The nymph said: hello world!`
+____
+`~$ cat nymph.adb`
 ~~~ada
 With text_io; 
 Use  text_io;
 
 Procedure birth_of_the_nymph Is
 Begin
-	put_line("The nymph said: hello world!");
+	Put_Line("The nymph said: hello world!");
 	
 End birth_of_the_nymph;
 ~~~
+
+`~$ gnatmake nymph.adb`
+`~$ ./nymph`
+`~$ The nymph sai: hello world!`
 <!---
 
 # Programação pode ser suave e graciosa.
