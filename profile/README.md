@@ -1,17 +1,14 @@
-# `$: you can programming softly and beautiful`
-  > `@codenymphs`
+# `codenymphs ~ $ echo "you can programming softly and beautiful"`
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
 
-`juniobash@github ~ % cat nymphs.alg`   
-~~~ algorithm
-BeginAlgorithm "creating code nymphs"
-    
-    Write("Hello, World!")
-
-EndAlgorithm
-
+`codenymphs ~ $ cat nymphs.alg`   
+~~~ pascal
+program birth_of_the_nymph;
+Begin
+	Writeln('The nymph said: hello world!');
+End.	
 ~~~
 
 
