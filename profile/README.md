@@ -1,9 +1,9 @@
-# `codenymphs ~ $ echo "you can programming softly and beautiful"`
+# `"you can programming softly and beautiful"`
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
 
-`codenymphs ~ $ cat nymphs.alg`   
+`codenymphs ~$ cat nymphs.pas`   
 ~~~ pascal
 program birth_of_the_nymph;
 Begin
