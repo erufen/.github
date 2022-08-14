@@ -7,7 +7,7 @@
 ~~~ pascal
 program birth_of_the_nymph;
 Begin
-  Writeln('The nymph said: hello world!');
+    Writeln('The nymph said: hello world!');
 End.	
 ~~~
 
