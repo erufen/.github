@@ -17,13 +17,11 @@ End.
 ____
 `~$ cat nymph.adb`
 ~~~ada
-With text_io; 
-Use  text_io;
+With text_io; Use  text_io;
 
 Procedure birth_of_the_nymph Is
 Begin
 	Put_Line("The nymph said: hello world!");
-	
 End birth_of_the_nymph;
 ~~~
 
