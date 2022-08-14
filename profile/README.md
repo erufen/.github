@@ -10,9 +10,10 @@ Begin
     Writeln('The nymph said: hello world!');
 End.	
 ~~~
-`~$ fpc nymph.pas`
-`~$ ./nymph`
-`~$ The nymph said: hello world!`
+`~$ fpc nymph.pas`  
+`~$ ./nymph`   
+`~$ The nymph said: hello world!`   
+
 ____
 `~$ cat nymph.adb`
 ~~~ada
@@ -26,9 +27,9 @@ Begin
 End birth_of_the_nymph;
 ~~~
 
-`~$ gnatmake nymph.adb`
-`~$ ./nymph`
-`~$ The nymph sai: hello world!`
+`~$ gnatmake nymph.adb`  
+`~$ ./nymph`  
+`~$ The nymph sai: hello world!`  
 <!---
 
 # Programação pode ser suave e graciosa.
