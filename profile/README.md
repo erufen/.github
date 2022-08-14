@@ -1,5 +1,5 @@
-# codeNymphs
-> you can write code with soft and beauty
+# > you can programming softly and beautiful
+  > `@codenymphs`
 - [ ] Build programs to help people.   
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
