@@ -6,7 +6,7 @@
 ### Pascal Nymph
 `~$ cat nymphisborn.pas`   
 ~~~ pascal
-PROGRAM Nymph(isBorn);
+PROGRAM isBorn(nymph);
 BEGIN
     	Writeln('The nymph said: hello world!');
 END.	
