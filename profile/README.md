@@ -8,7 +8,7 @@
 ~~~ pascal
 PROGRAM nymph_is_born;
 BEGIN
-    	WRITE('The nymph said: hello world!');
+    	WRITELN('The nymph said: hello world!');
 END.	
 ~~~
 `~$ fpc nymph.pas`  
