@@ -6,10 +6,10 @@
 ### Pascal Nymph
 `~$ cat nymphs.pas`   
 ~~~ pascal
-program birth_of_the_nymph;
-Begin
-    Writeln('The nymph said: hello world!');
-End.	
+PROGRAM nymph_is_born;
+BEGIN
+    	WRITE('The nymph said: hello world!');
+END.	
 ~~~
 `~$ fpc nymph.pas`  
 `~$ ./nymph`   
@@ -18,12 +18,12 @@ End.
 ### Ada Nymph
 `~$ cat nymph.adb`
 ~~~ada
-With text_io; Use  text_io;
+WITH text_io; USE  text_io;
 
-Procedure birth_of_the_nymph Is
-Begin
-	Put_Line("The nymph said: hello world!");
-End birth_of_the_nymph;
+PROCEDURE nymph_is_born IS
+BEGIN
+	PUT_LINE("The nymph said: hello world!");
+End nymph_is_born;
 ~~~
 
 `~$ gnatmake nymph.adb`  
