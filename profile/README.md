@@ -4,30 +4,30 @@
 - [ ] Make the code able to take care of our environment.   
 
 ### Pascal Nymph
-`~$ cat nymphs.pas`   
+`~$ cat NymphIsBorn.pas`   
 ~~~ pascal
-PROGRAM nymph_is_born;
+PROGRAM NymphIsBorn;
 BEGIN
     	WRITELN('The nymph said: hello world!');
 END.	
 ~~~
-`~$ fpc nymph.pas`  
-`~$ ./nymph`   
+`~$ fpc NymphIsBorn.pas`  
+`~$ ./NymphIsBorn`   
 `~$ The nymph said: hello world!`   
 
 ### Ada Nymph
-`~$ cat nymph.adb`
+`~$ cat NymphIsBorn.adb`
 ~~~ada
 WITH text_io; USE  text_io;
 
-PROCEDURE nymph_is_born IS
+PROCEDURE NymphIsBorn IS
 BEGIN
 	PUT_LINE("The nymph said: hello world!");
-END nymph_is_born;
+END NymphIsBorn;
 ~~~
 
-`~$ gnatmake nymph.adb`  
-`~$ ./nymph`  
+`~$ gnatmake NymphIsBorn.adb`  
+`~$ ./NymphIsBorn`  
 `~$ The nymph said: hello world!`  
 <!---
 
