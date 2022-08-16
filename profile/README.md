@@ -15,21 +15,6 @@ END.
 `~$ ./aNymphIsBorn`   
 `~$ The nymph said: hello world!`   
 
-### Ada Nymph
-`~$ cat aNymphIsBorn.adb`
-~~~ada
-WITH text_io; 
-USE  text_io;
-
-PROCEDURE aNymphIsBorn IS
-BEGIN
-	Put_line("The nymph said: hello world!");
-END aNymphIsBorn;
-~~~
-
-`~$ gnatmake aNymphIsBorn.adb`  
-`~$ ./aNymphIsBorn`  
-`~$ The nymph said: hello world!`  
 <!---
 
 # Programação pode ser suave e graciosa.
