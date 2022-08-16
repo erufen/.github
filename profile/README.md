@@ -23,7 +23,7 @@ WITH text_io; USE  text_io;
 PROCEDURE nymph_is_born IS
 BEGIN
 	PUT_LINE("The nymph said: hello world!");
-End nymph_is_born;
+END nymph_is_born;
 ~~~
 
 `~$ gnatmake nymph.adb`  
