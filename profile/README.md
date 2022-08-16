@@ -4,16 +4,16 @@
 - [ ] Make the code able to take care of our environment.   
 
 ### Pascal Nymph
-`~$ cat aNymphIsBorn.pas`   
+`~$ cat nymph.pas`   
 ~~~ pascal
-PROGRAM IsBorn(aNymph);
+PROGRAM isBorn(aNymph);
 BEGIN
-    	WriteLn('The nymph said: hello world!');
-END.		
+    	Writeln('The nymph said: hello world!');
+END.	
 ~~~
-`~$ fpc aNymphIsBorn.pas`  
-`~$ ./aNymphIsBorn`   
-`~$ The nymph said: hello world!`   
+`~$ fpc nymph.pas`  
+`~$ ./nymph`   
+`~$ The nymph said: hello world!`     
 
 <!---
 
