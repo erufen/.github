@@ -3,18 +3,6 @@
 - [ ] Create programs capable of caring for animals and plants.   
 - [ ] Make the code able to take care of our environment.   
 
-### Pascal Nymph
-`~$ cat nymph.pas`   
-~~~ pascal
-PROGRAM isBorn(aNymph);
-BEGIN
-    	Writeln('The nymph said: hello world!');
-END.	
-~~~
-`~$ fpc nymph.pas`  
-`~$ ./nymph`   
-`~$ The nymph said: hello world!`     
-
 <!---
 
 # Programação pode ser suave e graciosa.
