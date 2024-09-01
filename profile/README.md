@@ -1,8 +1,8 @@
 # :elf_woman: `"you can programming softly and beautiful"`
-- [ ] Build programs to help people.   
-- [ ] Create programs capable of caring for animals and plants.   
-- [ ] Make the code able to take care of our environment.   
-
+- [x] Build programs to help people.   
+- [x] Create programs capable of caring for animals and plants.   
+- [x] Make the code able to take care of our environment.   
+@juniozsh
 <!---
 
 # Programação pode ser suave e graciosa.
